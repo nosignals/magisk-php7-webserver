@@ -29,3 +29,4 @@ nosignal is gone
 > - [PHP](https://github.com/php/php-src)
 > - [nosignal](https://github.com/nosignals)
 > - [Discord DBAI Server](https://discord.gg/pEuzZZaHzV)
+> - [Ulo Tech Channel](https://www.youtube.com/@ulo-tech)
