@@ -18,7 +18,8 @@ Magisk PHP7 Webserver Modules
 
 ## Configuration
 1. Config files at `/data/adb/php7/files/config`
-2. Binary files at `/data/adb/php7/files`
+2. Binary files at `/data/adb/php7/files/bin`
+3. htdocs default files at `/data/adb/php7/files/www`
    
 ## About
 nosignal is gone
